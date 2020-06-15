@@ -4,6 +4,7 @@
 	"description": "A toy project that does something awesome",
 	"keywords": [ "freecodecamp", "microservice", "npm" ],
 	"license": "copyleft",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
